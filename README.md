@@ -9,7 +9,7 @@
 
 
 <p align="left">
-<h1><b>💡About Me</b></h1>  <br>- 🔭 I’m currently improving **MERN** and **Deep Learning**  <br>- 🌱 I love solving problems and exploring new technologies  <br>- 💬 Ask me about **MERN Stack** and **Machine Learning with Python**  <br>- ⚡ Fun fact: I enjoy experimenting with IoT and automation projects</p>
+<h1><b>💡About Me</b></h1>  <br>- 🔭 I’m currently improving <b>MERN</b> and <b>Deep Learning</b>  <br>- 🌱 I love solving problems and exploring new technologies  <br>- 💬 Ask me about <b>MERN Stack</b> and <b>Machine Learning with Python</b>  <br>- ⚡ Fun fact: I enjoy experimenting with IoT and automation projects</p>
 
 ###
 
