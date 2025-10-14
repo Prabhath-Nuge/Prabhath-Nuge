@@ -1,8 +1,4 @@
-<h1 align="left">#Hi there, I'm Prabhath 👋  <br>🎓 Software Engineering Graduate @ Plymouth University  <br>💻 MERN Stack & Python (ML/DL) Developer  <br>🚀 Passionate about building smart and scalable applications</h1>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">Hi there, I'm Prabhath 👋  <br>🎓 Software Engineering Graduate @ Plymouth University  <br>💻 MERN Stack & Python (ML/DL) Developer  <br>🚀 Passionate about building smart and scalable applications</h1>
 
 ###
 
@@ -13,7 +9,7 @@
 ###
 
 <p align="left">
-###💡 About Me  <br>- 🔭 I’m currently improving **MERN** and **Deep Learning**  <br>- 🌱 I love solving problems and exploring new technologies  <br>- 💬 Ask me about **MERN Stack** and **Machine Learning with Python**  <br>- ⚡ Fun fact: I enjoy experimenting with IoT and automation projects</p>
+<h1><b>💡About Me</b></h1>  <br>- 🔭 I’m currently improving **MERN** and **Deep Learning**  <br>- 🌱 I love solving problems and exploring new technologies  <br>- 💬 Ask me about **MERN Stack** and **Machine Learning with Python**  <br>- ⚡ Fun fact: I enjoy experimenting with IoT and automation projects</p>
 
 ###
 
